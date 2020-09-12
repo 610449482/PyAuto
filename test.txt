@@ -2,3 +2,7 @@ Just Test.First
 
 Just Test mergedemo by the second
 				----mergedemo 
+=============================================
+这里是mergedemo编辑的test.txt文档内容
+				-----mergedemo
+
