@@ -2,6 +2,10 @@ Just Test.First
 
 Just Test mergedemo by the second
 				----mergedemo
----------------------------------------------
+
+	-----以下是分支的合并内容----
 这里是master新增加的内容。。。。。。。。
 				----master
+这里是mergedemo编辑的test.txt文档内容
+
+				-----mergedemo
