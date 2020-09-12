@@ -3,4 +3,6 @@ Just Test.First
 Just Test mergedemo by the second
 				----mergedemo
 ---------------------------------------------
-这里是master添加的内容............
+这里是master新增加的内容。。。。。。。。
+				----master
+
